@@ -51,14 +51,18 @@ body{
     height:400px; 
     margin-left: 550px;
 }
+.small{
+    display:inline-flex;
+    
+}
 .shop1{
-    margin-left: 600px;
-    margin-top: -180px;
+    margin-left: 400px;
+    margin-top: -150px;
     display:inline-flex;
 }
 .shop2{
-    margin-left: 400px;
-    margin-top: -160px;
+    margin-left: 800px;
+    margin-bottom: 100px;
     display: inline-flex;
 }
 .royal{
