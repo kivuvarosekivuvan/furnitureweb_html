@@ -237,7 +237,7 @@ padding-left: 200px;
     
 }
 .cot{
-    position: relative;
+    position: absolute;
 }
 .inside{
     padding:5px 25px;
@@ -246,8 +246,8 @@ padding-left: 200px;
     font-weight: bold ;
     float: right;
     margin-top: -150px; 
-    position: absolute;
-    /* margin-left: 0px; */
+    position: relative;
+     margin-right: 100px;
 }
 #but3{
     background-color: black;
