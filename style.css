@@ -297,6 +297,42 @@ padding-left: 200px;
     justify-content:space-between;
 padding:4px 8px;}
 
+.last{
+    width: 90%;
+    height:20%;
+    margin-left: 60px;
+
+}
+.mix{
+    position: relative;
+}
+#subget{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -600px;
+    font-weight: 700;
+    font-size: 50px;
+}
+#off{
+     position: absolute;
+     margin-top:-550px ;
+     margin-left:100px;
+     font-weight: 700;
+     font-size: 50px;
+
+}
+#butemail{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -500px;
+    padding:12px;
+    border-radius: 10%;
+    font-size: 30px;
+    font-weight: 500;
+    border-width: px;
+    
+
+}
 
 
 
