@@ -1,0 +1,310 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 241, 248);
+}
+
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    padding-top: 0px;
+
+}
+.nav ul li{
+    display: inline-flex;
+    align-items: center;
+    padding-left: 80px;
+    padding-bottom: 50px;
+}
+#furn{
+    font-weight: 700;
+}
+#but1{
+    background-color: black;
+    padding:5px;
+    margin-top: -50px;
+    color: white;
+    
+}
+#h1{
+    padding-left: 80px;
+}
+.sente{
+    padding-left:80px ;
+}
+#but1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 20%;
+    
+}
+#p1{
+    margin-left: 80px;
+    margin-top: -400px;
+}
+#p2 img{
+    /* float: right; */
+    margin-top: 30px;
+    width: 700px; 
+    height:400px; 
+    margin-left: 550px;
+}
+.shop1{
+    margin-left: 600px;
+    margin-top: -180px;
+    display:inline-flex;
+}
+.shop2{
+    margin-left: 400px;
+    margin-top: -160px;
+    display: inline-flex;
+}
+.royal{
+    width: 70px;
+    height:80px;
+}
+.office{
+    width:70px;
+    height:80px;
+}
+#ada{
+    margin-left: 350px;
+}
+.para1{
+    margin-left: 100px;
+    background-color: aliceblue;
+    opacity:14;
+    width:200px;
+    height:220px;
+    padding:30px;
+}
+#one{
+    font-weight: bold;
+
+}
+#pdt{
+font-weight: bold;
+}
+#and{
+font-weight: bold;
+}
+#two{font-weight: bold;}
+#assu{
+    font-weight: bold;
+}
+#qua{
+    font-weight: bold;
+}
+#three{
+font-weight: bold;
+}
+#stan{
+font-weight: bold;
+}
+#high{
+font-weight: bold;
+}
+.para2{
+    margin-left: 400px;
+    margin-top: -300px;
+    background-color:aliceblue;
+    opacity:14;
+    width:200px;
+    height:220px;
+    padding:30px;
+}
+.para3{
+    margin-left: 700px;
+    margin-top: -300px;
+    background-color: aliceblue;
+    opacity: 14;
+    width: 200px;
+    height: 220px;
+    padding: 30px;
+}
+.reco{
+    display: inline-flex;
+}
+.recopara{
+    margin-left:200px ;
+    margin-top: 100px;
+}
+#R{
+    font-size:50px ;
+    font-weight: 400px;
+}#F{
+    font-size: 50px;
+    font-weight: 400px;
+}
+.topFun1{
+    padding-top: 20px;
+    padding-right: 50px;
+    margin-left: 100px;
+    margin-top:100px ;
+}
+#but2{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    margin-left: 240px;
+    border-radius: 20%;
+    
+}
+.interior{
+    margin-left: 300px;
+   
+}
+#int{
+    font-size: 45px;
+    font-weight: 400px;
+
+}
+#colle{
+    font-size: 45px;
+    font-weight: 400px;
+}
+.price1{
+    background-color: aliceblue;
+    opacity:14px;
+    width:120px;
+    height:150px;
+    margin-left: 200px;
+}
+.skyblue{
+    width: 120px;
+    height:150px;
+}
+.price2{
+    background-color: aliceblue;
+    opacity: 14px;
+    width: 150px;
+    height: 150px;
+    margin-left:550px ;
+    margin-top: -150px;
+   
+}
+.brown{
+    width: 150px;
+    height: 150px; 
+}
+.price3{
+    background-color: aliceblue;
+    opacity: 14px;
+    width:180px ;
+    height:180px;
+    margin-left: 900px;
+    margin-top: -160px;
+}
+.chairs{
+    width:180px ;
+    height:180px;
+}
+.Pinterior{
+    margin-left: 100px;
+
+}
+#provide{
+font-weight: 300px;
+font-size:40px ;
+padding-left: 280px;
+}
+#interior{
+font-weight:300px ;
+font-size: 40px;
+padding-left: 200px;
+}
+.im1{
+    margin-left: 100px;
+    width:600px;
+    height: 400px;
+}
+.im2{
+    margin-left: 800px;
+    margin-top: -400px;
+    width: 400px;
+    height:400px
+}
+.im3{
+    margin-left: 100px;
+}
+.im4{
+    margin-left: 1000px;
+    margin-top: -500px;
+    width: 255px;
+    height: 255px;
+    
+}
+.cot{
+    position: relative;
+}
+.inside{
+    padding:5px 25px;
+    background-color: white;
+    color: black;
+    font-weight: bold ;
+    float: right;
+    margin-top: -150px; 
+    position: absolute;
+    /* margin-left: 0px; */
+}
+#but3{
+    background-color: black;
+    padding:5px 25px;
+    color: white;
+    margin-left: 500px;
+}
+.stm1{ margin-left: 50px;
+
+}
+#fus{
+    font-size: large;
+    font-weight: bold;
+}
+.stm2{
+    margin-left: 400px;
+    margin-top: -140px;
+}
+#get{
+    font-size: large;
+    font-weight: bold;
+}
+
+.stm3{
+    margin-left: 700px;
+    margin-top: -140px;
+}
+#sup{
+     font-size: large;
+     font-weight: bold;
+}
+.stm4{
+   margin-left: 900px;
+    margin-top: -140px;
+}
+#down{
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
