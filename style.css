@@ -287,43 +287,12 @@ padding-left: 200px;
     font-size: large;
     font-weight: bold;
 }
-.icons{
-    display:flex;
+
+
+.icon{
     margin-left:20px;
-}
-
-
-
-.last{
-    width: 90%;
-    height:20%;
-    margin-left: 60px;
-}
-/* .insta{
-    background-color:red;
-    height:2px;
-    width:2px;
-    
- }
-.twitter{
-    background-color:blue;
-    height:2px;
-    width:2px;
-}
-.youtube{
-    height:2px;
-    width:2px;
-}
-
- */
-
-
-
-
-
-
-
-
+    justify-content:space-between;
+padding:4px 8px;}
 
 
 
