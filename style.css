@@ -288,7 +288,9 @@ padding-left: 200px;
     font-weight: bold;
 }
 .icons{
-    display:flex}
+    display:flex;
+    margin-left:20px;
+}
 
 
 
@@ -299,13 +301,19 @@ padding-left: 200px;
 }
 .insta{
     background-color:red;
+    height:2px;
+    width:2px;
+    
  }
 .twitter{
     background-color:blue;
     height:2px;
     width:2px;
 }
-
+.youtube{
+    height:2px;
+    width:2px;
+}
 
 
 
